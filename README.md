@@ -4,7 +4,9 @@ Luau (RBXLua) Obfuscator written in Lua.
 - This is modified version of [ByteLuaObfuscator](https://github.com/kosuke14/ByteLuaObfuscator)
 - Fully supported Luau v0.509
 # Usage
-You have to extract the zip file first to use. Open `runcmd.bat` on Windows to see usage.<br/>
+You have to extract the zip file first to use. <br>
+Downloadable from [Releases](https://github.com/kosuke14/ShinyMoon/releases) <br>
+Open `runcmd.bat` on Windows to see usage. <br>
 Example:
 ```
 ShinyMoon-win -s source.lua -o output.lua -of
