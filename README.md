@@ -1,5 +1,5 @@
 # ShinyMoon
-Luau Obfuscator written in Lua
+Luau (RBXLua) Obfuscator written in Lua.
 # Features
 - This is modified version of [ByteLuaObfuscator](https://github.com/kosuke14/ByteLuaObfuscator)
 - Fully supported Luau v0.509
