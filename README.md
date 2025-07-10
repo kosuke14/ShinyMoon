@@ -1,3 +1,4 @@
+> WARNING: Not recommended for the script which contains secrets. ByteLuaObfuscator is easy to deobfuscate.
 # ShinyMoon
 Luau (RBXLua) Obfuscator written in Lua.
 # Features
