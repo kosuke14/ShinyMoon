@@ -1,4 +1,4 @@
-> WARNING: Not recommended for the script which contains secrets. This script is easy to deobfuscate: [#2 (Issue)](https://github.com/kosuke14/ShinyMoon/issues/2)
+> WARNING: Not recommended for the script which contains secrets. The script is easy to deobfuscate: [#2 (Issue)](https://github.com/kosuke14/ShinyMoon/issues/2)
 # ShinyMoon
 Luau (RBXLua) Obfuscator written in Lua.
 # Features
